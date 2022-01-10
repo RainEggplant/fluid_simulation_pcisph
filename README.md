@@ -15,16 +15,16 @@ The `particle_system.py` and `sph_base.py` are adopted from [taichiCourse01/taic
     <tr>
     	<td>0.00</td>
         <td><img src="assets/0_00.png" /></td>
-        <td><video><source src="assets/0_00.mp4" type="video/mp4"></video></td>
+        <td><a href="assets/0_00.mp4">video</a></td>
     </tr>
     <tr>
     	<td>0.05</td>
         <td><img src="assets/0_05.png" /></td>
-        <td><video><source src="assets/0_05.mp4" type="video/mp4"></video></td>
+        <td><a href="assets/0_05.mp4">video</a></td>
     </tr>
     <tr>
     	<td>0.20</td>
         <td><img src="assets/0_20.png" /></td>
-        <td><video><source src="assets/0_20.mp4" type="video/mp4"></video></td>
+        <td><a href="assets/0_20.mp4">video</a></td>
     </tr>
 </table>
